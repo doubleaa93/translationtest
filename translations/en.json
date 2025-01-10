@@ -1,4 +1,5 @@
 {
-  "open":"open",
-  "close": "close"
+    "open": "open",
+    "close": "close",
+    "user": "User"
 }
