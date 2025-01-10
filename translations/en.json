@@ -1,5 +1,6 @@
 {
     "open": "open",
     "close": "close",
-    "user": "User"
+    "user": "User",
+    "title": "title"
 }
