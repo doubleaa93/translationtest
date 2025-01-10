@@ -1,4 +1,6 @@
 {
     "close": "cerrar",
-    "open": "abrir"
+    "open": "abrir",
+    "title": "titulo",
+    "app_title": "titulo"
 }
