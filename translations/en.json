@@ -1,5 +1,8 @@
 {
     "open": "open",
     "close": "close",
-    "user": "User"
+    "user": "User",
+    "title": "title",
+    "app_title": "title",
+    "Long title": "Long title"
 }
